@@ -1,3 +1,5 @@
+![check-file-permissions-action header](https://raw.githubusercontent.com/gi-org-pl/check-file-permissions-action/main/.github/image/header.png)
+
 # check-permissions-action
 
 A GitHub Action that fails if any file permission (mode) changes are introduced in a PR.
